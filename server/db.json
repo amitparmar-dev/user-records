@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amit Parmar",
+      "email": "amit.parmar@basilroot.com"
+    },
+    {
+      "name": "Amit Manubhai Parmar",
+      "email": "amitparmar.dev@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "React",
+      "email": "React@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Rahul",
+      "email": "Rahul@gmail.com",
+      "id": 4
+    }
+  ]
+}
